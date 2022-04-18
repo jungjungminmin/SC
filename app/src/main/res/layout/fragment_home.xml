@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/logo" />
+
+    <ImageButton
+        android:id="@+id/setting"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#00000000"
+        android:scaleType="fitCenter"
+        android:src="@drawable/menu"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:id="@+id/mainimage"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="지역별"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/text_one"
+        android:layout_below="@+id/mainimage"/>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_one"
+        android:id="@+id/function_nav">
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp">
+
+            <TableRow>
+
+                <Button
+                    android:layout_width="140dp"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/axml"
+                    android:text="강서구"
+                    android:textColor="#000"
+                    android:layout_marginBottom="10dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/adxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/aexml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/afxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/aqxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/asxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/avxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@drawable/awxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+            </TableRow>
+
+        </TableLayout>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="뮤지컬"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/text_two"
+        android:layout_below="@+id/function_nav"/>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_two">
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TableRow>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/awxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/aqxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/asxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/avxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/aqxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/asxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="120dp"
+                    android:background="#00000000"
+                    android:drawableTop="@drawable/avxml"
+                    android:text="강서구"
+                    android:textColor="#000" />
+
+            </TableRow>
+
+        </TableLayout>
+
+
+    </HorizontalScrollView>
+
+
+
+
+
+</RelativeLayout>

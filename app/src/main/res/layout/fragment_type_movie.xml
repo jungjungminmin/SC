@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textview_movie"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="무비무ㅠ비뮤비ㅏ"
+        android:textSize="50dp"
+        android:gravity="center" />
+
+</LinearLayout>

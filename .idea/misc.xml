@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable-v24/ic_baseline_format_list_bulleted_24.xml" value="0.197" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/a.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/adxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/aexml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/afxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/aqxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/asxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/avxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/awxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/axml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/axxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/drawable/azxml.xml" value="0.345" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_ranking.xml" value="0.25" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_social.xml" value="0.1" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_type_drama.xml" value="0.2932910244786945" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_type_movie.xml" value="0.2932910244786945" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/layout/fragment_type_rest.xml" value="0.2932910244786945" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/jinwoo/AndroidStudioProjects/SC/app/src/main/res/menu/left_nav_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
